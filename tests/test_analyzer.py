@@ -1,5 +1,4 @@
-from py_fieldex import (Analyzer, CharFilter, Field, Filter, IndexTemplate,
-                        Tokenizer)
+from py_fieldex import Analyzer, CharFilter, Field, Filter, IndexTemplate, Tokenizer
 
 
 def test_it():
